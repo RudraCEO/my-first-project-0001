@@ -1,1 +1,1 @@
-# my-first-project-0001
+Hello, this is my first GitHub project!
